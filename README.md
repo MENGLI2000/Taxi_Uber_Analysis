@@ -1,7 +1,7 @@
 # Taxi_Uber_Analysis
 Project Group 17
 
-UNI: ml4818、sl5197
+UNIs: [ml4818, sl5197]
 ## 1. Introduction
 
 This project uses Python and SQL queries to answer particular questions by downloading and cleaning data, storing the data in a SQLite database, and providing analysis and visualizations, using hired-ride trip data from Uber and NYC Yellow cab from January 2009 through June 2015, and joining with local historical weather data.
