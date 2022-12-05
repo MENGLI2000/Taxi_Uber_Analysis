@@ -29,3 +29,5 @@ Besides, **the Test requirement, Sunrise-Sunset table and Animation are also fin
 ## 3. Code
 The specific process can be seen in 4501_Final_Project_ml4818_sl5197.ipynb file.
 
+## 4.Notice
+As the heatmap cannot be shown on Github correctly, we insert the jpg file 'heat_map_nyc.jpg', you can feel free to download the code to your own laptop and run the code, where you will see the actual heatmap with zoom in and zoom out.
