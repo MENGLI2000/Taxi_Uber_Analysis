@@ -9,3 +9,4 @@ matplotlib
 celluloid 
 datetime 
 IPython
+jupyter
